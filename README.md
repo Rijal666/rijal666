@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rijal666&label=Profile%20views&color=0e75b6&style=flat" alt="rijal666" /> </p>
 
-- 🌱 I’m currently learning **golang with the gin framework**
+- 🌱 I’m currently learning **java with spring boot framework and php with laravel framework**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rijal666?tab=repositories](https://github.com/Rijal666?tab=repositories)
 
